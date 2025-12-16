@@ -64,7 +64,9 @@ The Random Forest model performed better and was selected as the final model due
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nikhil2004200/cardiovascular-disease-risk-prediction.git
+## Install required Libraries
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+## Run the notebook
+Open Cardiovascular_risk_prediction.ipynb in juypter Notebook
